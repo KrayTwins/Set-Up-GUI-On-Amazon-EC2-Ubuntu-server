@@ -62,7 +62,7 @@ $ vncserver
 ```
 # You can download xtightvncviewer to view desktop(for Ubutnu) from here https://help.ubuntu.com/community/VNC/Clients
 ```
-In the vnc client, give public DNS plus ":1" (e.g. www.example.com:1). Enter the vnc login password. Make sure to use a normal connection. Don't use the key files.
+In the vnc client, give public DNS plus ":1" (e.g. ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com:1). Enter the vnc login password. Make sure to use a normal connection. Don't use the key files.
 
 Additional guide available here: http://www.serverwatch.com/server-tutorials/setting-up-vnc-on-ubuntu-in-the-amazon-ec2-Page-3.html
 
