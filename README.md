@@ -1,6 +1,8 @@
 # Set Up GUI On Amazon EC2 Ubuntu server
 
-Information gathered from https://stackoverflow.com/questions/25657596/how-to-set-up-gui-on-amazon-ec2-ubuntu-server \
+Information gathered from https://stackoverflow.com/questions/25657596/how-to-set-up-gui-on-amazon-ec2-ubuntu-server
+
+Tested on Ubuntu Server 14.04 LTS (HVM) SSD Volume Type Amazon ami-a22323db
 
 
 ```
