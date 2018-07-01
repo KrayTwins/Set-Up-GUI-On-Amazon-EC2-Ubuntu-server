@@ -2,7 +2,7 @@
 
 Information gathered from https://stackoverflow.com/questions/25657596/how-to-set-up-gui-on-amazon-ec2-ubuntu-server
 
-Tested on Ubuntu Server 14.04 LTS (HVM) SSD Volume Type Amazon ami-a22323db
+Tested on Ubuntu Server 14.04 LTS (HVM) SSD Volume Type Amazon ami-a22323db \
 Ensure Port 5900 is open the AWS Security Group
 
 ```
